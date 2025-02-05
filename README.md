@@ -7,11 +7,11 @@ Link to a screen recording of the use of "synthos" app to generate synthetic dat
 `Code_Synthos_app.R`  is the code of this app.
 
 ## 2. Machine learning model
-In the folder ML_model you can find the code of the machine learning model : 'scripts_ML_only' with the ressources 'R'
+In the folder ML_model you can find the code of the machine learning model : `scripts_ML_only` with the ressources `R`
 
 The results : 
 
-`model_perf_allML.png` is the figure with the performance of each model
+`model_perf_allML.png` is the figure with the performance of each model.
 
 For each sampling design:
 
