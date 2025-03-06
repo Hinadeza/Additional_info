@@ -19,7 +19,7 @@ For each sampling design:
 `list_of_parameters.RData` is the parameters chosen for synthetic data generation with synthos package  
 
 `check_true_MLonly` is the result of model tunning. We can see predicted value for each observed value, the closer the values, the closer the points will be to the line.  
-`pred_broadML_original` show the evolution of coral cover through time. The black line is the predicted trend of the model, the blue line is the true trend from the synthetic data. The blue shape is the uncertainty.  
+`pred_broadML_original` shows the evolution of coral cover through time. The black line is the predicted trend of the model, the blue line is the true trend from the synthetic data. The blue shape is the uncertainty.  
 `pred_traj_tier_dataML_original` is the evolution of coral cover per tier where there is data. The black line show the predicted value of the model. It is the mean of the bootstraps in gray lines. The blue shape is the uncertainty.  
 `pred_traj_tier_no_dataML_original` is the evolution of coral cover per tier where there is no data. The black line show the predicted value of the model. It is the mean of the bootstraps in gray lines. The red shape is the uncertainty.  
-`viz_perf_MLonly` show model performance
+`viz_perf_MLonly` shows model performance
